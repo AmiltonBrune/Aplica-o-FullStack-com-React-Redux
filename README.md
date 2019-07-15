@@ -1,1 +1,1 @@
-# Aplica-o-FullStack-com-React-Redux
+# Aplicação FullStack React
